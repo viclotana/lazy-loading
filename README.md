@@ -1,6 +1,6 @@
 # Lazy Loading
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+This project was generated for [Pusher Blog Tutorial](https://pusher.com/tutorials/lazy-loading-angular-7) with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 ## Development server
 
